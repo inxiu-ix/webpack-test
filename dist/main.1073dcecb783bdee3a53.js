@@ -1,0 +1,1 @@
+(()=>{"use strict";const t=new class{constructor(t){this.title=t}toString(){return JSON.stringify({title:this.title})}}("file1.js downloaded");console.log("Status:",t.toString()),console.log("test>>>",{text:"test",id:"123"})})();
